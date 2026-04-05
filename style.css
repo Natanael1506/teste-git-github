@@ -1,0 +1,13 @@
+div{
+    background-color: rgb(75, 75, 247);
+    height: 250px;
+    width: 250px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: rgb(55, 234, 23);
+}
